@@ -706,13 +706,17 @@ styles.css
 
 ## OUTPUT:
 ### Home.html
-![Screenshot (59)](https://github.com/Surya-ram/softweb/assets/122000311/77f31e60-9534-4488-8fa5-d0b2f98ef92c)
+![image](https://github.com/Surya-ram/softweb/assets/122000311/1c4613f2-48ed-4565-8fb8-b66b6c57c789)
+
 ### Product.html
-![Screenshot (60)](https://github.com/Surya-ram/softweb/assets/122000311/09182fbb-8d98-4729-bbba-f04549f3f59c)
+![image](https://github.com/Surya-ram/softweb/assets/122000311/091bfcce-07d7-4968-8cda-ce7b923b53ee)
+
 ### People.html
-![Screenshot (62)](https://github.com/Surya-ram/softweb/assets/122000311/8c8ed49f-9569-48b1-bbfd-5bc43976ed0e)
+![image](https://github.com/Surya-ram/softweb/assets/122000311/645ff84d-42a8-4fbc-8be9-3cf13e2eeb15)
+
 ### contact.html
-![image](https://github.com/Surya-ram/softweb/assets/122000311/153911d5-15a3-4691-89f3-f7765552e253)
+![image](https://github.com/Surya-ram/softweb/assets/122000311/c09a0c9b-3011-44a9-a379-f92029054033)
+
 
 
 
