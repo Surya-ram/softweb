@@ -495,7 +495,7 @@ Contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by ALAGU NACHIYAR</footer></div>
+                Copyright &copy;2023 Developed by Suriya R</footer></div>
             </div>
         </div>
     </body>
