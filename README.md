@@ -705,10 +705,10 @@ styles.css
 ```
 
 ## OUTPUT:
-![Alt text](<static/images/screenshots/Screenshot (59).png>)
-![Alt text](<static/images/screenshots/Screenshot (60).png>)
-![Alt text](<static/images/screenshots/Screenshot (62).png>)
-![Alt text](<static/images/screenshots/Screenshot (63).png>)
+![Screenshot (59)](https://github.com/Surya-ram/softweb/assets/122000311/77f31e60-9534-4488-8fa5-d0b2f98ef92c)
+![Screenshot (60)](https://github.com/Surya-ram/softweb/assets/122000311/09182fbb-8d98-4729-bbba-f04549f3f59c)
+![Screenshot (62)](https://github.com/Surya-ram/softweb/assets/122000311/8c8ed49f-9569-48b1-bbfd-5bc43976ed0e)
+![Screenshot (63)](https://github.com/Surya-ram/softweb/assets/122000311/e5668d56-71d3-4d61-9698-53651ac9f991)
 
 
 
