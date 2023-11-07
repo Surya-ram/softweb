@@ -712,7 +712,8 @@ styles.css
 ### People.html
 ![Screenshot (62)](https://github.com/Surya-ram/softweb/assets/122000311/8c8ed49f-9569-48b1-bbfd-5bc43976ed0e)
 ### contact.html
-![Screenshot (63)](https://github.com/Surya-ram/softweb/assets/122000311/e5668d56-71d3-4d61-9698-53651ac9f991)
+![image](https://github.com/Surya-ram/softweb/assets/122000311/153911d5-15a3-4691-89f3-f7765552e253)
+
 
 
 
